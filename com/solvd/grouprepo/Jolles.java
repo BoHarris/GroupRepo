@@ -1,3 +1,4 @@
+package com.solvd.grouprepo;
 import java.util.Scanner;
 public class Jolles {
     public static void main(String[] args) {
