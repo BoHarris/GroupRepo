@@ -5,5 +5,7 @@ public class Hello {
 		System.out.println("Hello, World");
 		Archa archa = new Archa();
 		archa.methodByArcha();
+		Davis davis = new Davis();
+		davis.sayHi();
 	}
 }
